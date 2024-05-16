@@ -1,0 +1,18 @@
+C:\Users\zwsaq\source\repos\COMPSTAT  Prototype\COMPSTAT  Prototype\bin\Debug\net6.0-windows\COMPSTAT  Prototype.exe
+C:\Users\zwsaq\source\repos\COMPSTAT  Prototype\COMPSTAT  Prototype\bin\Debug\net6.0-windows\COMPSTAT  Prototype.deps.json
+C:\Users\zwsaq\source\repos\COMPSTAT  Prototype\COMPSTAT  Prototype\bin\Debug\net6.0-windows\COMPSTAT  Prototype.runtimeconfig.json
+C:\Users\zwsaq\source\repos\COMPSTAT  Prototype\COMPSTAT  Prototype\bin\Debug\net6.0-windows\COMPSTAT  Prototype.dll
+C:\Users\zwsaq\source\repos\COMPSTAT  Prototype\COMPSTAT  Prototype\bin\Debug\net6.0-windows\COMPSTAT  Prototype.pdb
+C:\Users\zwsaq\source\repos\COMPSTAT  Prototype\COMPSTAT  Prototype\obj\Debug\net6.0-windows\COMPSTAT  Prototype.csproj.AssemblyReference.cache
+C:\Users\zwsaq\source\repos\COMPSTAT  Prototype\COMPSTAT  Prototype\obj\Debug\net6.0-windows\COMPSTAT__Prototype.Form1.resources
+C:\Users\zwsaq\source\repos\COMPSTAT  Prototype\COMPSTAT  Prototype\obj\Debug\net6.0-windows\COMPSTAT  Prototype.csproj.GenerateResource.cache
+C:\Users\zwsaq\source\repos\COMPSTAT  Prototype\COMPSTAT  Prototype\obj\Debug\net6.0-windows\COMPSTAT  Prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zwsaq\source\repos\COMPSTAT  Prototype\COMPSTAT  Prototype\obj\Debug\net6.0-windows\COMPSTAT  Prototype.AssemblyInfoInputs.cache
+C:\Users\zwsaq\source\repos\COMPSTAT  Prototype\COMPSTAT  Prototype\obj\Debug\net6.0-windows\COMPSTAT  Prototype.AssemblyInfo.cs
+C:\Users\zwsaq\source\repos\COMPSTAT  Prototype\COMPSTAT  Prototype\obj\Debug\net6.0-windows\COMPSTAT  Prototype.csproj.CoreCompileInputs.cache
+C:\Users\zwsaq\source\repos\COMPSTAT  Prototype\COMPSTAT  Prototype\obj\Debug\net6.0-windows\COMPSTAT  Prototype.dll
+C:\Users\zwsaq\source\repos\COMPSTAT  Prototype\COMPSTAT  Prototype\obj\Debug\net6.0-windows\refint\COMPSTAT  Prototype.dll
+C:\Users\zwsaq\source\repos\COMPSTAT  Prototype\COMPSTAT  Prototype\obj\Debug\net6.0-windows\COMPSTAT  Prototype.pdb
+C:\Users\zwsaq\source\repos\COMPSTAT  Prototype\COMPSTAT  Prototype\obj\Debug\net6.0-windows\COMPSTAT  Prototype.genruntimeconfig.cache
+C:\Users\zwsaq\source\repos\COMPSTAT  Prototype\COMPSTAT  Prototype\obj\Debug\net6.0-windows\ref\COMPSTAT  Prototype.dll
+C:\Users\zwsaq\source\repos\COMPSTAT  Prototype\COMPSTAT  Prototype\obj\Debug\net6.0-windows\COMPSTAT__Prototype.Properties.Resources.resources
